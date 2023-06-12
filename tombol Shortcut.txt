@@ -1,0 +1,6 @@
+ alt + shift , ama gerakin tanda bawah (⬇️) : copy text kebawah atau ke atas
+
+shift + tanda bawah (⬇️) dan atas : untuk geser text ke atas dan kebawah
+
+ctrl + /  :untuk memblok text menjadi koment
+
